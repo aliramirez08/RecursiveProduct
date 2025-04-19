@@ -24,5 +24,5 @@ This program calculates the product of five integers entered by the user using r
 1. Compile:
 
    ```bash
-   javac RecursiveProduct.java
+   java RecursiveProduct.java
    ```
