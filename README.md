@@ -12,7 +12,7 @@ This program calculates the product of five integers entered by the user using r
 
 ### 1. Source Code in Visual Studio Code
 
-![RecursiveProductSource1](screenshots/RecursiveProductSourceCode.png)
+![RecursiveProductSource1](screenshots/RecursiveProductSource.png)
 
 ### 2. Program Output in Terminal
 
